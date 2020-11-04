@@ -1,0 +1,3 @@
+﻿Deutsch - Englisch Wörterbuch mit hilfe von einem Dictionary erstellen
+ -> Wörterbuch soll Suchfunktion beinhalten
+ -> Wörterbuch soll alle Elemente auf einmal ausgeben können

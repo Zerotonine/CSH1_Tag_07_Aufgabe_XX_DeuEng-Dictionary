@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\bin\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.exe.config
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\bin\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.exe
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\bin\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.pdb
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\obj\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\obj\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\obj\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.exe
+C:\Users\Phil\source\repos\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary\obj\Debug\CSH1_Tag_07_Aufgabe_XX-DeuEngDictionary.pdb
